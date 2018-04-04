@@ -12,7 +12,7 @@ class Jobs extends Component {
             <br />
             <br />
             <h4> Jobs tab, breaks are being used to have the text show here instead of hidding under the header-navbar </h4>
-            <h4> For now the tabs about us and venture cafe refering the the jobs tab as well </h4>
+            <h4> For now the tabs about us and venture cafe reffers to the jobs tab as well </h4>
           </div>
       </div>
     )
