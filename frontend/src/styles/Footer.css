@@ -1,0 +1,87 @@
+/* #myFooter{
+    height: 300px;
+} */
+#myFooter{
+    background-color: #434343;
+    margin-top: 80px;
+    padding-top: 30px;
+}
+.MainFooterLinks{
+  font-size: 30px;
+}
+
+.MainFooterLinks span{
+  color: white;
+}
+
+ul{
+    list-style: none;
+    margin: 0px;
+    padding: 0px;
+}
+a{
+    color: White;
+    font-size: 20px;
+    /* text-decoration: none; */
+    /* color: white; */
+}
+a:link {
+    text-decoration: none;
+}
+/* a:hover {
+    color: white;
+    /* font-weight: bold;
+} */
+
+h5{
+    color: tomato;
+}
+ #donate button{
+    background-color: tomato;
+    color: #d2d1d1;
+}
+#donate button:hover:enabled {
+    background: linear-gradient(tomato,chocolate);
+    /* color: #fff; */
+    /* text-decoration: none; */
+  }
+  .button:active {
+    transform: translateY(1px);
+  }
+
+.twitter{
+    font-size: 40px;
+    margin: 10px;
+}
+.twitter:hover , .facebook:hover,.linkedin:hover,.instagram:hover , a:hover{
+    color: #e06a26;
+}
+.facebook{
+    font-size: 40px;
+    margin: 10px;
+}
+/* .facebook:hover{
+    color: #4867AA;
+} */
+.linkedin{
+    font-size: 40px;
+    margin: 10px;
+}
+/* .linkedin:hover{
+    color: #CF4662;
+} */
+.instagram{
+    font-size: 40px;
+    margin: 10px;
+}
+/* .instagram:hover{
+    color: #CF4662;
+} */
+
+.footer-copyright{
+    margin-top: 10px;
+    margin-bottom: 10px;
+    padding: 5px;
+    font-size: 20px;
+    color: white;
+}
