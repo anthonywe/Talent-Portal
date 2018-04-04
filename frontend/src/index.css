@@ -3,3 +3,23 @@ body {
   padding: 0;
   font-family: sans-serif;
 }
+
+.active {
+  font-weight: bold;
+}
+
+
+li {
+  list-style-type: none;
+}
+
+a {
+  text-decoration: none;
+  color: #d0021b;
+}
+
+.tabs li {
+  margin: 10px;
+  font-weight: bold;
+  cursor: pointer;
+}
